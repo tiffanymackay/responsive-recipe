@@ -268,8 +268,8 @@ footer p {
     }
 
     .content {
-        text-align: center;
         padding: 20px 30px;
+        text-align: left;
     }
     .img {
         order: 1;
@@ -281,7 +281,6 @@ footer p {
     .content {
         order: 2;
     }
-
     h2 {
         text-align: center;
     }
