@@ -124,15 +124,20 @@ h2 {
 }
 img {
     width: 100%;
+    border-radius: 20px;
 }
 aside {
-    display: flex;
+    display: block;
+    border-radius: 20px;
     background-color: rgba(240, 128, 128, 0.219);
     padding: 30px 20px;
-    margin: 30px 10px;
     font-family: Verdana;
-    line-height: 16px;
+    line-height: 14px;
     font-size: 12px;
+    font-style: italic;
+}
+h3 {
+    font-weight: bolder;
 }
 p {
     font-family: Verdana;
