@@ -91,26 +91,21 @@ header {
 
 }
 /*---------Main Styles---------*/
-main {
-    background-color: #fff;
-    box-shadow: 3px 4px 4px rgba(0, 0, 0, 0.25);
-    border-radius: 20px;
-    margin: 20px auto;
-    display: block;
-    max-width: 1200px;
-    width: 80%;
-}
 body {
     padding: 10px 100px;
     margin: 10px auto;
 }
 main {
+    background-color: #fff;
+    box-shadow: 3px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+    max-width: 1200px;
+    width: 80%;
     display: flex;
     flex: auto;
     padding: 10px 10px 30px 10px;
     margin: auto;
 }
-
 h2 {
     font-family: Patrick Hand SC;
     font-style: normal;
@@ -118,7 +113,6 @@ h2 {
     font-size: 48px;
     text-align: left;
 }
-
 .img {
     max-width: 100%;
 }
@@ -162,7 +156,6 @@ p {
     font-size: 14px;
     list-style: decimal;
 }
-
 footer {
     font-family: Verdana;
     font-size: 12px;
@@ -176,7 +169,6 @@ footer a:link {
 a:hover {
     color: firebrick;
 }
-
 footer p {
     padding: 10px;
 }
